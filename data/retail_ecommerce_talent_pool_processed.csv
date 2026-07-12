@@ -1,0 +1,682 @@
+candidate_id,city,fresh_graduate_status,skills,excel_skill,sql_skill,python_skill,power_bi_skill,looker_studio_skill,database_skill,tableau_skill,other_skills,candidate_goals,platform_source,province,for_job,upskills,networking,switch_career,total_skills,skill_level
+1,Jawa Tengah,Ya,"Python, Tableau",0,0,1,0,0,0,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,2,Beginner
+2,Padang,Ya,"Excel, SQL, Python, Power BI",1,1,1,1,0,0,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Sumatera Barat,1,1,1,1,4,Intermediate
+3,Surabaya,Ya,"Excel, SQL, Python, Power BI, Databases",1,1,1,1,0,1,0,,"Cari Kerja, Upskill, Networking",Teman,Jawa Timur,1,1,1,0,5,Intermediate
+4,Bandung,Ya,"Python, Power BI",0,0,1,1,0,0,0,,Upskill,LinkedIn,Jawa Barat,0,1,0,0,2,Beginner
+5,Yogyakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking, Switch Career",Teman,DI Yogyakarta,0,1,1,1,7,Advanced
+6,Tangerang ,Ya,"Excel, SQL, Power BI, Tableau",1,1,0,1,0,0,1,,"Upskill, Networking",Teman,Banten,0,1,1,0,4,Intermediate
+7,Kudus,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Tengah,1,1,1,1,7,Advanced
+8,Boyolali,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Airflow ",1,1,1,1,1,1,0, Airflow,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,6,Advanced
+9,Tangerang,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking",Instagram,Banten,0,1,1,0,7,Advanced
+10,"Sidoarjo, Jawa Timur",Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Tableau",1,1,1,1,1,0,1,,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Jawa Timur,1,1,1,1,6,Advanced
+11,Banyumas,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases",1,1,1,1,1,1,0,,Cari Kerja,Instagram,Jawa Tengah,1,0,0,0,6,Advanced
+12,Jawa Tengah,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,7,Advanced
+13,Bekasi,Ya,"Excel, SQL, Python, Power BI, Tableau",1,1,1,1,0,0,1,,Upskill,Teman,Jawa Barat,0,1,0,0,5,Intermediate
+14,Jakarta Timur,Tidak,"Excel, SQL, Python, Power BI",1,1,1,1,0,0,0,,"Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,4,Intermediate
+15,Padang,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, Anything",1,1,1,1,1,1,1, Anything,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Sumatera Barat,1,1,1,1,7,Advanced
+16,Cianjur,Tidak,"Excel, SQL, Python, Power BI, Databases",1,1,1,1,0,1,0,,"Cari Kerja, Networking",Teman,Jawa Barat,1,0,1,0,5,Intermediate
+17,Medan,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Sumatera Utara,1,1,1,1,7,Advanced
+18,Gresik,Ya,"Excel, SQL, Python, Power BI, Tableau",1,1,1,1,0,0,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Timur,1,1,1,0,5,Intermediate
+19,Makassar,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Sulawesi Selatan,1,1,1,0,7,Advanced
+20,"Jawa Barat,",Ya,"Excel, SQL, Power BI, Looker Studio",1,1,0,1,1,0,0,,"Cari Kerja, Upskill",LinkedIn,Jawa Barat,1,1,0,0,4,Intermediate
+21,Bandung ,Ya,"Power BI, Looker Studio, Tableau",0,0,0,1,1,0,1,,"Cari Kerja, Upskill",LinkedIn,Jawa Barat,1,1,0,0,3,Intermediate
+22,Bekasi,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking, Switch Career",Instagram,Jawa Barat,0,1,1,1,7,Advanced
+23,Tangerang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking",LinkedIn,Banten,0,1,1,0,7,Advanced
+24,Dumai,Tidak,"Excel, SQL, Python, Power BI, Tableau",1,1,1,1,0,0,1,,Upskill,LinkedIn,Riau,0,1,0,0,5,Intermediate
+25,Dumai,Tidak,"Excel, SQL, Python, Power BI, Tableau",1,1,1,1,0,0,1,,Upskill,LinkedIn,Riau,0,1,0,0,5,Intermediate
+26,Pekanbaru,Tidak,"Excel, Python, Power BI",1,0,1,1,0,0,0,,"Upskill, Switch Career",LinkedIn,Riau,0,1,0,1,3,Intermediate
+27,Depok,Ya,"Excel, SQL, Python, Power BI, Looker Studio",1,1,1,1,1,0,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,5,Intermediate
+28,Purworejo,Ya,"Excel, SQL, Python, Looker Studio",1,1,1,0,1,0,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,4,Intermediate
+29,Medan,Ya,"SQL, Python, Power BI, Looker Studio, Tableau",0,1,1,1,1,0,1,,Cari Kerja,LinkedIn,Sumatera Utara,1,0,0,0,5,Intermediate
+30,Malang,Tidak,Excel,1,0,0,0,0,0,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,1,1,1,1,1,Beginner
+31,Bekasi,Ya,"Excel, Power BI, Looker Studio, Tableau",1,0,0,1,1,0,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,4,Intermediate
+32,Jakarta ,Tidak,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Jakarta,1,1,1,1,4,Intermediate
+33,Sumatera selatan,Tidak,"Excel, Looker Studio, Databases",1,0,0,0,1,1,0,,Upskill,LinkedIn,Sumatera Selatan,0,1,0,0,3,Intermediate
+34,Bandung,Tidak,"Excel, SQL, Python, Databases, Tableau",1,1,1,0,0,1,1,,"Upskill, Networking",Teman,Jawa Barat,0,1,1,0,5,Intermediate
+35,Surabaya,Tidak,"SQL, Python, Power BI, Looker Studio",0,1,1,1,1,0,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Timur,1,1,1,0,4,Intermediate
+36,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",Instagram,Jakarta,1,1,1,1,6,Advanced
+37,Medan,Ya,"Excel, Python, Databases",1,0,1,0,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",Instagram,Sumatera Utara,1,1,1,1,3,Intermediate
+38,Tangerang Selatan,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Banten,1,1,1,0,7,Advanced
+39,tangerang selatan,Tidak,"SQL, Python, Power BI, Looker Studio, Databases, Tableau",0,1,1,1,1,1,1,,Upskill,LinkedIn,Banten,0,1,0,0,6,Advanced
+40,Makassar,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Sulawesi Selatan,1,1,1,1,7,Advanced
+41,Serang,Tidak,"Excel, SQL, Power BI, ",1,1,0,1,0,0,0,,"Cari Kerja, Upskill, Switch Career",LinkedIn,Banten,1,1,0,1,3,Intermediate
+42,Tangerang Selatan ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Banten,1,1,1,0,7,Advanced
+43,Malang,Tidak,"SQL, Python, Power BI, Databases, Tableau",0,1,1,1,0,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,0,1,1,1,5,Intermediate
+44,Jambi,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Jambi,0,1,1,1,7,Advanced
+45,Bekasi,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+46,Gresik,Tidak,"SQL, Python, Power BI, Looker Studio, Databases, Tableau, Data analyst spesifik dunia sosial",0,1,1,1,1,1,1, Data analyst spesifik dunia sosial,"Upskill, Networking, Switch Career",Teman,Jawa Timur,0,1,1,1,6,Advanced
+47,Jakarta ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,7,Advanced
+48,Purwokerto ,Ya,"Looker Studio, Tableau",0,0,0,0,1,0,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,2,Beginner
+49,Malang,Ya,"SQL, Python, Power BI, Looker Studio",0,1,1,1,1,0,0,,Networking,LinkedIn,Jawa Timur,0,0,1,0,4,Intermediate
+50,Mojokerto,Ya,"SQL, Python, Databases",0,1,1,0,0,1,0,,"Upskill, Networking",Teman,Jawa Timur,0,1,1,0,3,Intermediate
+51,Tangerang ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill",LinkedIn,Banten,1,1,0,0,7,Advanced
+52,Tangerang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, Semua Tools Data Analyst",1,1,1,1,1,1,1, Semua Tools Data Analyst,"Cari Kerja, Upskill, Networking",LinkedIn,Banten,1,1,1,0,7,Advanced
+53,Tangerang,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Banten,1,1,1,0,7,Advanced
+54,Jakarta,Ya,"Looker Studio, Databases, Tableau",0,0,0,0,1,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Jakarta,0,1,1,1,3,Intermediate
+55,Palangkaraya Kalimantan Tengah ,Tidak,SQL,0,1,0,0,0,0,0,,"Upskill, Networking, Switch Career",LinkedIn,Kalimatan Tengah,0,1,1,1,1,Beginner
+56,Jawa Tengah,Ya,"Excel, SQL, Python, Tableau",1,1,1,0,0,0,1,,Cari Kerja,Teman,Jawa Tengah,1,0,0,0,4,Intermediate
+57,Jember,Ya,"Excel, SQL, Python, Databases, Tableau",1,1,1,0,0,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Timur,1,1,1,0,5,Intermediate
+58,Jakarta,Tidak,"Python, Power BI, Looker Studio, Databases, Tableau",0,0,1,1,1,1,1,,Upskill,LinkedIn,Jakarta,0,1,0,0,5,Intermediate
+59,Bekasi,Tidak,ETL,0,0,0,0,0,0,0,ETL,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,0,Beginner
+60,Jakarta,Tidak,"Hadoop, Hive Server",0,0,0,0,0,0,0,"Hadoop, Hive Server","Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,0,Beginner
+61,Jakarta Utara,Tidak,Tableau,0,0,0,0,0,0,1,,Networking,LinkedIn,Jakarta,0,0,1,0,1,Beginner
+62,surabaya,Tidak,"SQL, Databases, Tableau",0,1,0,0,0,1,1,,Upskill,LinkedIn,Jawa Timur,0,1,0,0,3,Intermediate
+63,Jakarta,Tidak,"Excel, SQL, Power BI, Databases, Tableau",1,1,0,1,0,1,1,,"Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,5,Intermediate
+64,Surabaya ,Ya,"Excel, SQL, Python, Looker Studio, Databases",1,1,1,0,1,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Jawa Timur,1,1,1,1,5,Intermediate
+65,Tangerang,Ya,"Python, Power BI, Looker Studio, Databases",0,0,1,1,1,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Banten,1,1,1,1,4,Intermediate
+66,Sidoarjo ,Ya,"SQL, Python, Power BI, Looker Studio, Databases, Tableau",0,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Timur,1,1,1,0,6,Advanced
+67,Surabaya,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Timur,1,1,1,0,7,Advanced
+68,Jakarta Selatan,Tidak,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,4,Intermediate
+69,Bandung,Tidak,"SQL, Python, Power BI, Databases",0,1,1,1,0,1,0,,"Upskill, Networking",LinkedIn,Jawa Barat,0,1,1,0,4,Intermediate
+70,Jakarta,Ya,"Excel, SQL, Python, Looker Studio, Databases",1,1,1,0,1,1,0,,"Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,5,Intermediate
+71,Bekasi,Tidak,"Excel, SQL, Python, Power BI, Databases",1,1,1,1,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,5,Intermediate
+72,Palangkaraya,Ya,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Upskill, Networking",Teman,Kalimantan Tengah ,0,1,1,0,4,Intermediate
+73,Balikpapan,Tidak,"Python, Power BI, Looker Studio, Databases",0,0,1,1,1,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Kalimantan Timur,1,1,1,0,4,Intermediate
+74,PARINGIN,Tidak,"Excel, SQL, Power BI, Databases",1,1,0,1,0,1,0,,"Upskill, Networking",LinkedIn,Kalimantan Selatan,0,1,1,0,4,Intermediate
+75,Medan,Tidak,"SQL, Looker Studio",0,1,0,0,1,0,0,,Upskill,LinkedIn,Sumatera Utara,0,1,0,0,2,Beginner
+76,Jakarta selatan,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",Instagram,Jakarta,1,1,1,0,7,Advanced
+77,Bulukumba,Tidak,"Excel, SQL, Python, Power BI, Tableau",1,1,1,1,0,0,1,,Cari Kerja,Teman,Sulawesi Selatan,1,0,0,0,5,Intermediate
+78,Tulungagung,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,7,Advanced
+79,Yogyakarta ,Ya,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,DI Yogyakarta,1,1,1,0,6,Advanced
+80,Depok,Tidak,"SQL, Python, Power BI, Looker Studio, Databases, Tableau",0,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,6,Advanced
+81,"Tanjung Enim, Sumatera Selatan",Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",Instagram,Sumatera Selatan,1,1,1,1,7,Advanced
+82,sangatta,Tidak,"Excel, Python, Power BI, Databases",1,0,1,1,0,1,0,,Upskill,LinkedIn,Kalimantan Timur,0,1,0,0,4,Intermediate
+83,Malang,Ya,"Excel, SQL, Python, Power BI, Databases",1,1,1,1,0,1,0,,"Cari Kerja, Upskill",LinkedIn,Jawa Timur,1,1,0,0,5,Intermediate
+84,Jakarta Timur ,Ya,"Excel, SQL, Python",1,1,1,0,0,0,0,,"Cari Kerja, Upskill",LinkedIn,Jakarta,1,1,0,0,3,Intermediate
+85,Surakarta,Ya,"Excel, SQL, Python, Power BI, Tableau",1,1,1,1,0,0,1,,"Upskill, Networking",LinkedIn,Jawa Tengah,0,1,1,0,5,Intermediate
+86,Jakarta,Tidak,"Excel, Looker Studio, Databases",1,0,0,0,1,1,0,,Switch Career,Instagram,Jakarta,0,0,0,1,3,Intermediate
+87,Palembang,Tidak,"SQL, Python, Power BI, Looker Studio, Tableau",0,1,1,1,1,0,1,,"Cari Kerja, Networking, Switch Career",Instagram,Sumatera Selatan,1,0,1,1,5,Intermediate
+88,Lampung,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Lampung,1,1,1,0,7,Advanced
+89,DKI Jakarta,Ya,"SQL, Python, Power BI, Tableau",0,1,1,1,0,0,1,,"Upskill, Networking, Switch Career",LinkedIn,Jakarta,0,1,1,1,4,Intermediate
+90,Kudus,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Tengah,1,1,1,1,7,Advanced
+91,"Malang, Jawa Timur",Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",Teman,Jawa Timur,1,1,1,0,7,Advanced
+92,Jakarta Selatan,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill",LinkedIn,Jakarta,1,1,0,0,7,Advanced
+93,Tangerang,Ya,"Excel, Python, Power BI, Databases",1,0,1,1,0,1,0,,"Upskill, Networking",Instagram,Banten,0,1,1,0,4,Intermediate
+94,Semarang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",Teman,Jawa Tengah,1,1,1,0,7,Advanced
+95,Banyumas,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,7,Advanced
+96,Bengkulu,Tidak,"Excel, SQL, Python",1,1,1,0,0,0,0,,"Upskill, Switch Career",LinkedIn,Bengkulu,0,1,0,1,3,Intermediate
+97,Tangerang,Tidak,"Excel, SQL, Python, Looker Studio",1,1,1,0,1,0,0,,"Upskill, Switch Career",LinkedIn,Banten,0,1,0,1,4,Intermediate
+98,Lampung,Ya,"SQL, Python, Power BI, Tableau",0,1,1,1,0,0,1,,"Cari Kerja, Upskill",LinkedIn,Lampung,1,1,0,0,4,Intermediate
+99,Batam,Ya,"Excel, SQL, Python, Power BI, Tableau",1,1,1,1,0,0,1,,"Cari Kerja, Networking",Instagram,Riau,1,0,1,0,5,Intermediate
+100,Jakarta,Tidak,"SQL, Python, Databases, Tableau",0,1,1,0,0,1,1,,Upskill,LinkedIn,Jakarta,0,1,0,0,4,Intermediate
+101,Jakarta Selatan,Tidak,"SQL, Power BI, Tableau",0,1,0,1,0,0,1,,"Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,3,Intermediate
+102,Medan,Tidak,"Excel, SQL, Tableau",1,1,0,0,0,0,1,,"Upskill, Switch Career",LinkedIn,Sumatera Utara,0,1,0,1,3,Intermediate
+103,Makassar,Ya,"SQL, Python, Databases, Tableau",0,1,1,0,0,1,1,,"Cari Kerja, Upskill, Networking",Teman,Sulawesi Selatan,1,1,1,0,4,Intermediate
+104,Brebes,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",Teman,Jawa Tengah,1,1,1,0,7,Advanced
+105,Kediri,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, ",1,1,1,1,1,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",Instagram,Jawa Timur,1,1,1,1,6,Advanced
+106,JAKARTA SELATAN ,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,7,Advanced
+107,Jakarta selatan ,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, Skill komunikasi ",1,1,1,1,1,1,1, Skill komunikasi,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,7,Advanced
+108,Yogyakarta ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,DI Yogyakarta,1,1,1,0,7,Advanced
+109,Bekasi,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+110,Bogor,Ya,"Excel, SQL, Python, Power BI",1,1,1,1,0,0,0,,"Cari Kerja, Upskill",LinkedIn,Jawa Barat,1,1,0,0,4,Intermediate
+111,Padang,Ya,"SQL, Power BI, Looker Studio, Databases",0,1,0,1,1,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Sumatera Barat,1,1,1,0,4,Intermediate
+112,Makassar,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Sulawesi Selatan,1,1,1,1,7,Advanced
+113,Riau,Tidak,"Excel, Power BI, Databases",1,0,0,1,0,1,0,,"Upskill, Switch Career",LinkedIn,Riau,0,1,0,1,3,Intermediate
+114,Purwakarta,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill",LinkedIn,Jawa Barat,1,1,0,0,7,Advanced
+115,Klaten,Ya,"Excel, SQL, Databases",1,1,0,0,0,1,0,,"Cari Kerja, Upskill, Networking",Teman,Jawa Tengah,1,1,1,0,3,Intermediate
+116,Tangerang,Tidak,"SQL, Python",0,1,1,0,0,0,0,,"Cari Kerja, Upskill",Teman,Banten,1,1,0,0,2,Beginner
+117,Malang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Timur,1,1,1,0,7,Advanced
+118,Malang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",Instagram,Jawa Timur,1,1,1,0,7,Advanced
+119,pontianak,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,Upskill,LinkedIn,Kalimantan Barat,0,1,0,0,7,Advanced
+120,pontianak,Ya,"Excel, SQL, Python, Power BI, Tableau",1,1,1,1,0,0,1,,"Cari Kerja, Upskill",LinkedIn,Kalimantan Barat,1,1,0,0,5,Intermediate
+121,Sidoarjo,Tidak,"Excel, Power BI, Looker Studio, Tableau",1,0,0,1,1,0,1,,Upskill,LinkedIn,Jawa Timur,0,1,0,0,4,Intermediate
+122,Jakarta Utara,Tidak,"Excel, Power BI, Databases",1,0,0,1,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,3,Intermediate
+123,Ciamis,Ya,"Excel, SQL, Power BI, Looker Studio, Databases, Tableau",1,1,0,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,6,Advanced
+124,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,7,Advanced
+125,Cilegon,Tidak,"SQL, Python, Databases",0,1,1,0,0,1,0,,"Upskill, Networking",LinkedIn,Banten,0,1,1,0,3,Intermediate
+126,Tangerang,Tidak,"Excel, Power BI, Looker Studio",1,0,0,1,1,0,0,,"Upskill, Networking",LinkedIn,Banten,0,1,1,0,3,Intermediate
+127,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, Machine learning & AI",1,1,1,1,1,1,1, Machine learning & AI,"Upskill, Networking",Teman,Jakarta,0,1,1,0,7,Advanced
+128,Yogyakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,Upskill,LinkedIn,DI Yogyakarta,0,1,0,0,7,Advanced
+129,Jakarta Selatan ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Networking, Switch Career",LinkedIn,Jakarta,1,0,1,1,7,Advanced
+130,Makassar,Ya,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,Cari Kerja,Instagram,Sulawesi Selatan,1,0,0,0,4,Intermediate
+131,Yogyakarta,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,DI Yogyakarta,1,1,1,0,7,Advanced
+132,Bandung,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill",LinkedIn,Jawa Barat,1,1,0,0,7,Advanced
+133,Bogor,Ya,"SQL, Python, Power BI, Looker Studio, Databases, Tableau",0,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,6,Advanced
+134,Probolinggo ,Tidak,"Excel, SQL, Power BI",1,1,0,1,0,0,0,,"Upskill, Networking",LinkedIn,Jawa Timur,0,1,1,0,3,Intermediate
+135,Grobogan,Ya,"SQL, Python",0,1,1,0,0,0,0,,"Upskill, Switch Career",LinkedIn,Jawa Tengah,0,1,0,1,2,Beginner
+136,Bekasi,Ya,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Cari Kerja, Upskill, Networking",Teman,Jawa Barat,1,1,1,0,6,Advanced
+137,Semarang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Tengah,1,1,1,1,7,Advanced
+138,Semarang,Ya,"Excel, SQL, Python",1,1,1,0,0,0,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,3,Intermediate
+139,Jakarta,Ya,"SQL, Python, Power BI, Tableau",0,1,1,1,0,0,1,,"Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,4,Intermediate
+140,Bekasi Jawa Barat,Tidak,"Excel, SQL, Databases",1,1,0,0,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Belum ada mapping,1,1,1,1,3,Intermediate
+141,Wonogiri,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Jawa Tengah,1,1,1,1,7,Advanced
+142,Depok Jawa Barat,Tidak,"Excel, SQL, Python, Power BI, Looker Studio",1,1,1,1,1,0,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,5,Intermediate
+143,Jambi,Ya,Excel,1,0,0,0,0,0,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jambi,1,1,1,0,1,Beginner
+144,Jakarta Timur,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jakarta,1,1,1,0,7,Advanced
+145,Purwakarta,Ya,"Power BI, Apache Airflow",0,0,0,1,0,0,0,Apache Airflow,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,1,Beginner
+146,Bogor,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+147,Surabaya,Ya,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Cari Kerja, Upskill",LinkedIn,Jawa Timur,1,1,0,0,6,Advanced
+148,Jakarta Utara,Tidak,"SQL, Python, Power BI, Looker Studio, Databases",0,1,1,1,1,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,5,Intermediate
+149,Tangerang,Ya,"Power BI, Looker Studio, Databases, Tableau",0,0,0,1,1,1,1,,"Upskill, Networking",LinkedIn,Banten,0,1,1,0,4,Intermediate
+150,Jakarta Timur,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jakarta,1,1,1,0,7,Advanced
+151,Jakarta,Tidak,"SQL, Python, Power BI, Databases, Tableau",0,1,1,1,0,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Jakarta,0,1,1,1,5,Intermediate
+152,Bogor,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",Teman,Jawa Barat,1,1,1,0,7,Advanced
+153,mojokerto ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",Teman,Jawa Timur,1,1,1,0,7,Advanced
+154,Subang ,Ya,Excel,1,0,0,0,0,0,0,,Upskill,LinkedIn,Jawa Barat,0,1,0,0,1,Beginner
+155,Medan,Ya,"SQL, Python, Power BI, Tableau",0,1,1,1,0,0,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Sumatera Utara,1,1,1,0,4,Intermediate
+156,Lampung,Ya,"Power BI, Tableau",0,0,0,1,0,0,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Lampung,1,1,1,0,2,Beginner
+157,Jember,Ya,"Power BI, Looker Studio, Tableau",0,0,0,1,1,0,1,,"Cari Kerja, Networking, Switch Career",LinkedIn,Jawa Timur,1,0,1,1,3,Intermediate
+158,Bogor,Tidak,"Excel, SQL, Python, Databases, Tableau",1,1,1,0,0,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,0,1,1,1,5,Intermediate
+159,Bandung ,Ya,SQL,0,1,0,0,0,0,0,,Upskill,LinkedIn,Jawa Barat,0,1,0,0,1,Beginner
+160,Bogor,Tidak,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,6,Advanced
+161,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,7,Advanced
+162,Bogor,Tidak,"Python, Power BI",0,0,1,1,0,0,0,,"Cari Kerja, Networking",LinkedIn,Jawa Barat,1,0,1,0,2,Beginner
+163,Yogyakarta ,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking",LinkedIn,DI Yogyakarta,0,1,1,0,7,Advanced
+164,Bekasi,Tidak,"Excel, SQL, Power BI, Tableau",1,1,0,1,0,0,1,,"Upskill, Networking",Instagram,Jawa Barat,0,1,1,0,4,Intermediate
+165,Bogor,Ya,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Cari Kerja, Upskill, Switch Career",LinkedIn,Jawa Barat,1,1,0,1,4,Intermediate
+166,Jakarta Barat,Tidak,"SQL, Power BI, Tableau",0,1,0,1,0,0,1,,"Upskill, Networking, Switch Career",Instagram,Jakarta,0,1,1,1,3,Intermediate
+167,Surabaya,Ya,"SQL, Looker Studio, Databases, Tableau",0,1,0,0,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Timur,1,1,1,0,4,Intermediate
+168,Bogor,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",Instagram,Jawa Barat,1,1,1,0,7,Advanced
+169,Banyumas,Ya,"Excel, SQL, Python, Power BI, Databases",1,1,1,1,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,5,Intermediate
+170,Semarang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,7,Advanced
+171,Jaksel,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Jakarta,1,1,1,1,7,Advanced
+172,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,Networking,LinkedIn,Jakarta,0,0,1,0,7,Advanced
+173,"Tulungagung, Jawa Timur",Ya,"Excel, SQL, Python, Power BI, Databases",1,1,1,1,0,1,0,,Cari Kerja,LinkedIn,Jawa Tengah,1,0,0,0,5,Intermediate
+174,Sumatera Utara ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Sumatera Utara,1,1,1,1,7,Advanced
+175,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking, Switch Career",Instagram,Jakarta,0,1,1,1,7,Advanced
+176,kalimantan timur,Tidak,"SQL, Python, Power BI, Looker Studio, Databases",0,1,1,1,1,1,0,,Upskill,LinkedIn,Kalimantan Timur,0,1,0,0,5,Intermediate
+177,Surakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,Switch Career,LinkedIn,Jawa Tengah,0,0,0,1,7,Advanced
+178,Kota Depok,Ya,"Excel, Python, Power BI",1,0,1,1,0,0,0,,"Upskill, Networking",LinkedIn,Jawa Barat,0,1,1,0,3,Intermediate
+179,Bandung,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+180,Belitung,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Tableau",1,1,1,1,1,0,1,,"Upskill, Networking",LinkedIn,Bangka  Belitung,0,1,1,0,6,Advanced
+181,Cirebon,Ya,"Power BI, Looker Studio, Tableau",0,0,0,1,1,0,1,,"Cari Kerja, Upskill",LinkedIn,Jawa Barat,1,1,0,0,3,Intermediate
+182,Surabaya,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Tableau",1,1,1,1,1,0,1,,"Cari Kerja, Upskill, Networking",Teman,Jawa Timur,1,1,1,0,6,Advanced
+183,Riau,Ya,"SQL, Power BI, Looker Studio",0,1,0,1,1,0,0,,"Cari Kerja, Upskill, Networking, Switch Career",Instagram,Riau,1,1,1,1,3,Intermediate
+184,Bekasi,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,Cari Kerja,Instagram,Jawa Barat,1,0,0,0,7,Advanced
+185,Bandung,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, Bahasa pemrograman R",1,1,1,1,1,1,1, Bahasa pemrograman R,"Cari Kerja, Upskill",LinkedIn,Jawa Barat,1,1,0,0,7,Advanced
+186,Bekasi,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+187,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, PostgreSQL",1,1,1,1,1,1,1, Postgre,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,7,Advanced
+188,Balikpapan,Tidak,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Upskill, Networking, Switch Career",Instagram,Kalimantan Timur,0,1,1,1,4,Intermediate
+189,Depok,Tidak,"Excel, Databases, Tableau",1,0,0,0,0,1,1,,"Upskill, Switch Career",LinkedIn,Jawa Barat,0,1,0,1,3,Intermediate
+190,Sidoarjo,Ya,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,1,1,1,1,6,Advanced
+191,Tangerang,Ya,"Excel, SQL, Python, Power BI",1,1,1,1,0,0,0,,Switch Career,LinkedIn,Banten,0,0,0,1,4,Intermediate
+192,Yogyakarta,Ya,Excel,1,0,0,0,0,0,0,,"Cari Kerja, Upskill, Switch Career",Instagram,DI Yogyakarta,1,1,0,1,1,Beginner
+193,Jakarta,Tidak,"Python, Power BI, Looker Studio, Databases, Tableau",0,0,1,1,1,1,1,,"Cari Kerja, Upskill, Switch Career",LinkedIn,Jakarta,1,1,0,1,5,Intermediate
+194,Sumatera Utara ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, ",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Sumatera Utara,1,1,1,1,7,Advanced
+195,"Sidoarjo, Jawa Timur",Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Networking",LinkedIn,Jawa Timur,1,0,1,0,7,Advanced
+196,Yogyakarta,Ya,"Excel, SQL, Python, Power BI, Databases",1,1,1,1,0,1,0,,Upskill,LinkedIn,DI Yogyakarta,0,1,0,0,5,Intermediate
+197,Magelang ,Ya,"Excel, Databases",1,0,0,0,0,1,0,,"Upskill, Networking",Teman,Jawa Tengah,0,1,1,0,2,Beginner
+198,Kendal,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,7,Advanced
+199,Bogor,Tidak,"Python, Power BI, Looker Studio",0,0,1,1,1,0,0,,"Upskill, Networking",LinkedIn,Jawa Barat,0,1,1,0,3,Intermediate
+200,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,6,Advanced
+201,Pekanbaru,Ya,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,Upskill,Instagram,Riau,0,1,0,0,6,Advanced
+202,Jakarta,Tidak,"Excel, SQL, Python, Looker Studio",1,1,1,0,1,0,0,,"Cari Kerja, Networking, Switch Career",LinkedIn,Jakarta,1,0,1,1,4,Intermediate
+203,Malang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, big data",1,1,1,1,1,1,1, big data,Cari Kerja,Instagram,Jawa Timur,1,0,0,0,7,Advanced
+204,Mojokerto,Ya,"Excel, SQL, Python",1,1,1,0,0,0,0,,"Cari Kerja, Upskill",LinkedIn,Jawa Timur,1,1,0,0,3,Intermediate
+205,Kab. Tangerang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Banten,1,1,1,1,7,Advanced
+206,Denpasar,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Bali,1,1,1,1,7,Advanced
+207,Tulungagung,Ya,"Power BI, Databases, Tableau",0,0,0,1,0,1,1,,"Cari Kerja, Upskill",LinkedIn,Jawa Tengah,1,1,0,0,3,Intermediate
+208,Kota Depok,Tidak,"Python, Databases, Tableau",0,0,1,0,0,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,3,Intermediate
+209,Yogyakarta,Ya,"SQL, Python, Power BI, Looker Studio, Tableau",0,1,1,1,1,0,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,DI Yogyakarta,1,1,1,1,5,Intermediate
+210,Depok Jawa Barat,Tidak,"Excel, SQL, Power BI",1,1,0,1,0,0,0,,"Cari Kerja, Upskill, Networking",Teman,Jawa Barat,1,1,1,0,3,Intermediate
+211,Cirebon,Ya,"SQL, Python, Databases",0,1,1,0,0,1,0,,"Cari Kerja, Switch Career",LinkedIn,Jawa Barat,1,0,0,1,3,Intermediate
+212,Karawang ,Ya,"SQL, Python",0,1,1,0,0,0,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,2,Beginner
+213,Bandung,Ya,"SQL, Python, Power BI, Databases",0,1,1,1,0,1,0,,"Cari Kerja, Upskill, Networking",Teman,Jawa Barat,1,1,1,0,4,Intermediate
+214,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, Di awal ingin Excel terlebih dahulu ",1,1,1,1,1,1,1, Di awal ingin terlebih dahulu,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Jakarta,1,1,1,1,7,Advanced
+215,Surakarta,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,7,Advanced
+216,Depok,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+217,Depok,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+218,Bandung ,Ya,Excel,1,0,0,0,0,0,0,,Upskill,LinkedIn,Jawa Barat,0,1,0,0,1,Beginner
+219,Tangerang,Ya,"Python, Power BI, Tableau",0,0,1,1,0,0,1,,Upskill,Instagram,Banten,0,1,0,0,3,Intermediate
+220,Bekasi,Tidak,semua,0,0,0,0,0,0,0,semua,"Upskill, Networking",LinkedIn,Jawa Barat,0,1,1,0,0,Beginner
+221,Bekasi,Tidak,"Python, Power BI, Databases",0,0,1,1,0,1,0,,"Cari Kerja, Networking",LinkedIn,Jawa Barat,1,0,1,0,3,Intermediate
+222,Karawang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Tableau",1,1,1,1,1,0,1,,"Upskill, Networking",Teman,Jawa Barat,0,1,1,0,6,Advanced
+223,Jakarta Selatan,Tidak,"Python, Pipilene automation",0,0,1,0,0,0,0,Pipilene automation,"Upskill, Networking",Teman,Jakarta,0,1,1,0,1,Beginner
+224,"Tuban, east java",Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,1,1,1,1,7,Advanced
+225,Surabaya ,Ya,"Excel, SQL, Power BI, Tableau",1,1,0,1,0,0,1,,"Cari Kerja, Upskill",LinkedIn,Jawa Timur,1,1,0,0,4,Intermediate
+226,Gresik,Tidak,Excel,1,0,0,0,0,0,0,,Upskill,LinkedIn,Jawa Timur,0,1,0,0,1,Beginner
+227,Jatinangor,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,Upskill,LinkedIn,Jawa Barat,0,1,0,0,7,Advanced
+228,Jakarta,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",Instagram,Jakarta,1,1,1,1,7,Advanced
+229,Bandung,Tidak,"Excel, Python, Power BI, Looker Studio, Tableau",1,0,1,1,1,0,1,,"Upskill, Networking, Switch Career",Instagram,Jawa Barat,0,1,1,1,5,Intermediate
+230,Bandung,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+231,Jakarta,Tidak,"SQL, Python, Databases",0,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Jakarta,1,1,1,1,3,Intermediate
+232,Sulawesi Tengah,Ya,"Excel, SQL, Power BI, Databases, Tableau, R Studio",1,1,0,1,0,1,1, R Studio,"Upskill, Networking",LinkedIn,Sulawesi Tengah,0,1,1,0,5,Intermediate
+233,Bandung,Tidak,"Excel, SQL, Python, Databases, Tableau",1,1,1,0,0,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Jawa Barat,1,1,1,1,5,Intermediate
+234,Bandung,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+235,Bogor,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+236,Tasikmalaya ,Ya,"SQL, Power BI, Databases",0,1,0,1,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,3,Intermediate
+237,Bogor,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+238,Bandung,Ya,"Python, Power BI, Databases",0,0,1,1,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,3,Intermediate
+239,Surabaya ,Tidak,"Python, Power BI, Looker Studio, Tableau",0,0,1,1,1,0,1,,"Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,0,1,1,1,4,Intermediate
+240,Surabaya ,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,0,1,1,1,7,Advanced
+241,Tangerang,Ya,"Excel, SQL, Python",1,1,1,0,0,0,0,,"Upskill, Networking",LinkedIn,Banten,0,1,1,0,3,Intermediate
+242,Semarang,Ya,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,4,Intermediate
+243,Bekasi,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+244,Semarang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Tableau",1,1,1,1,1,0,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,6,Advanced
+245,Gresik,Tidak,"SQL, Power BI, Looker Studio, Databases",0,1,0,1,1,1,0,,"Upskill, Networking",LinkedIn,Jawa Timur,0,1,1,0,4,Intermediate
+246,Bekasi,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+247,Yogyakarta,Ya,"Excel, Python, Looker Studio",1,0,1,0,1,0,0,,"Cari Kerja, Upskill",LinkedIn,DI Yogyakarta,1,1,0,0,3,Intermediate
+248,"Medan, Sumatera Utara",Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Sumatera Utara,1,1,1,0,7,Advanced
+249,Medan,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Sumatera Utara,1,1,1,0,7,Advanced
+250,Semarang,Ya,"SQL, Python, Power BI, Tableau",0,1,1,1,0,0,1,,Upskill,LinkedIn,Jawa Tengah,0,1,0,0,4,Intermediate
+251,Jakarta,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill",LinkedIn,Jakarta,1,1,0,0,7,Advanced
+252,Padang,Ya,"Excel, Python, Looker Studio, Databases, Tableau",1,0,1,0,1,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Sumatera Barat,0,1,1,1,5,Intermediate
+253,Jawa Timur,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,Upskill,LinkedIn,Jawa Timur,0,1,0,0,7,Advanced
+254,Surakarta,Tidak,"SQL, Python, Power BI, Looker Studio, Databases, Tableau",0,1,1,1,1,1,1,,Switch Career,LinkedIn,Jawa Tengah,0,0,0,1,6,Advanced
+255,Bogor,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",Teman,Jawa Barat,1,1,1,0,7,Advanced
+256,Bogor,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Tableau, Google Colab",1,1,1,1,1,0,1, Google Colab,"Cari Kerja, Upskill, Networking",Instagram,Jawa Barat,1,1,1,0,6,Advanced
+257,Surabaya,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",Teman,Jawa Timur,1,1,1,0,7,Advanced
+258,Sukabumi,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking",LinkedIn,Jawa Barat,0,1,1,0,7,Advanced
+259,bekasi,Tidak,"SQL, Python, Power BI, Databases, Tableau",0,1,1,1,0,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Jawa Barat,1,1,1,1,5,Intermediate
+260,Kota Bekasi,Ya,"Excel, SQL, Python, Power BI, Databases, Tableau, ETL, Big Data, Business Inteligent, Meching Learning ",1,1,1,1,0,1,1," ETL, Big Data, Business Inteligent, Meching Learning","Cari Kerja, Upskill",LinkedIn,Jawa Barat,1,1,0,0,6,Advanced
+261,Cirebon,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+262,Bekasi,Ya,"Python, Power BI, Looker Studio, Databases",0,0,1,1,1,1,0,,"Cari Kerja, Upskill",LinkedIn,Jawa Barat,1,1,0,0,4,Intermediate
+263,Bogor,Tidak,"Excel, SQL, Python, Looker Studio",1,1,1,0,1,0,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,4,Intermediate
+264,Bandung Barat,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,Switch Career,LinkedIn,Jawa Barat,0,0,0,1,7,Advanced
+265,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Databases",1,1,1,1,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,5,Intermediate
+266,Yogyakarta ,Ya,"Excel, SQL, Python, Power BI, Tableau",1,1,1,1,0,0,1,,"Upskill, Networking",LinkedIn,DI Yogyakarta,0,1,1,0,5,Intermediate
+267,BEKASI,Tidak,"Excel, SQL, Python, Power BI",1,1,1,1,0,0,0,,"Upskill, Networking, Switch Career",Instagram,Jawa Barat,0,1,1,1,4,Intermediate
+268,Tangerang,Ya,"Excel, ",1,0,0,0,0,0,0,,"Upskill, Networking",Teman,Banten,0,1,1,0,1,Beginner
+269,Padang Panjang ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Sumatera Barat,1,1,1,0,7,Advanced
+270,Pontianak,Tidak,GIS,0,0,0,0,0,0,0,GIS,"Upskill, Networking",LinkedIn,Kalimantan Barat,0,1,1,0,0,Beginner
+271,Yogyakarta,Tidak,"Excel, Python",1,0,1,0,0,0,0,,"Upskill, Networking",LinkedIn,DI Yogyakarta,0,1,1,0,2,Beginner
+272,Padang,Ya,"SQL, Python, Power BI, Looker Studio, Databases, Tableau",0,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Sumatera Barat,1,1,1,0,6,Advanced
+273,Tangerang,Tidak,"Power BI, Databases, Tableau",0,0,0,1,0,1,1,,Switch Career,LinkedIn,Banten,0,0,0,1,3,Intermediate
+274,Kendari ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Sulawesi Tenggara,1,1,1,1,7,Advanced
+275,Makassar,Tidak,"Excel, SQL, Power BI, Looker Studio, Databases, Tableau",1,1,0,1,1,1,1,,"Cari Kerja, Switch Career",LinkedIn,Sulawesi Selatan,1,0,0,1,6,Advanced
+276,Jakarta Timur,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, Streamlit",1,1,1,1,1,1,1, Streamlit,"Cari Kerja, Upskill, Networking",LinkedIn,Jakarta,1,1,1,0,7,Advanced
+277,Kisaran Sumatera Utara,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Sumatera Utara,1,1,1,1,7,Advanced
+278,Tangerang Selatan,Tidak,"Excel, SQL, Python, Looker Studio, Databases",1,1,1,0,1,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Banten,1,1,1,1,5,Intermediate
+279,Purwokerto ,Ya,Excel,1,0,0,0,0,0,0,,Upskill,Teman,Jawa Tengah,0,1,0,0,1,Beginner
+280,Tasikmalaya,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,0,1,1,1,7,Advanced
+281,Tangerang,Tidak,"Power BI, Looker Studio",0,0,0,1,1,0,0,,"Cari Kerja, Switch Career",Instagram,Banten,1,0,0,1,2,Beginner
+282,Sumedang,Ya,"SQL, Python, Power BI, Looker Studio, Tableau",0,1,1,1,1,0,1,,Upskill,LinkedIn,Jawa Barat,0,1,0,0,5,Intermediate
+283,Bekasi,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,0,1,1,1,7,Advanced
+284,Karawang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Tableau",1,1,1,1,1,0,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,6,Advanced
+285,Pekanbaru,Ya,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Cari Kerja, Upskill",LinkedIn,Riau,1,1,0,0,6,Advanced
+286,"Bandung, Jawa Barat",Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+287,Kalimantan Timur,Tidak,"Excel, Python, Power BI, Databases, Tableau",1,0,1,1,0,1,1,,Upskill,LinkedIn,Kalimantan Timur,0,1,0,0,5,Intermediate
+288,Bekasi,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Jawa Barat,1,1,1,1,7,Advanced
+289,Depok,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+290,Depok,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, Cloud Computing ",1,1,1,1,1,1,1, Cloud Computing,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+291,"Banyuwangi, Jawa Timur",Ya,"SQL, Python, Power BI, Databases",0,1,1,1,0,1,0,,"Cari Kerja, Networking",Teman,Jawa Timur,1,0,1,0,4,Intermediate
+292,Yogyakarta,Ya,"Excel, SQL, Python, Power BI, Looker Studio",1,1,1,1,1,0,0,,"Cari Kerja, Upskill, Networking",LinkedIn,DI Yogyakarta,1,1,1,0,5,Intermediate
+293,Madiun,Tidak,"Excel, SQL, Python, Power BI, Tableau",1,1,1,1,0,0,1,,"Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,0,1,1,1,5,Intermediate
+294,Sidoarjo,Tidak,"Power BI, Looker Studio, Databases, Tableau",0,0,0,1,1,1,1,,"Upskill, Switch Career",LinkedIn,Jawa Timur,0,1,0,1,4,Intermediate
+295,Depok,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,0,1,1,1,7,Advanced
+296,Jakarta,Ya,"Python, Databases",0,0,1,0,0,1,0,,Upskill,LinkedIn,Jakarta,0,1,0,0,2,Beginner
+297,Bandung Barat,Ya,"Excel, SQL, Python, Power BI",1,1,1,1,0,0,0,,"Cari Kerja, Upskill",LinkedIn,Jawa Barat,1,1,0,0,4,Intermediate
+298,Depok,Tidak,"SQL, Python, Power BI, Looker Studio, Databases, Tableau",0,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,6,Advanced
+299,Surabaya,Tidak,"SQL, Python, Power BI, Looker Studio, Tableau",0,1,1,1,1,0,1,,Upskill,LinkedIn,Jawa Timur,0,1,0,0,5,Intermediate
+300,Tangerang Selatan,Ya,"Excel, SQL, Python, Power BI, Databases",1,1,1,1,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Banten,1,1,1,0,5,Intermediate
+301,Tangerang Selatan,Tidak,"Excel, SQL, Python, Power BI, Databases",1,1,1,1,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Banten,1,1,1,0,5,Intermediate
+302,Bekasi,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+303,Kota Depok,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Switch Career",LinkedIn,Jawa Barat,0,1,0,1,7,Advanced
+304,Tangerang,Tidak,"Excel, SQL, Python, Power BI, Tableau",1,1,1,1,0,0,1,,"Upskill, Networking",LinkedIn,Banten,0,1,1,0,5,Intermediate
+305,Harapan Indah,Tidak,"Excel, Python, Power BI",1,0,1,1,0,0,0,,Upskill,Teman,Jawa Barat,0,1,0,0,3,Intermediate
+306,Surabaya,Tidak,"SQL, Tableau, AI automation, RAG, LLM ",0,1,0,0,0,0,1," AI automation, RAG, LLM","Cari Kerja, Networking",LinkedIn,Jawa Timur,1,0,1,0,2,Beginner
+307,Surabaya,Ya,"Excel, SQL, Python, Databases, Tableau",1,1,1,0,0,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,1,1,1,1,5,Intermediate
+308,Sukoharjo ,Tidak,"Python, Databases",0,0,1,0,0,1,0,,Upskill,LinkedIn,Jawa Tengah,0,1,0,0,2,Beginner
+309,Jakarta,Tidak,"SQL, Python, Power BI, Looker Studio, Databases, Tableau",0,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,6,Advanced
+310,Medan,Tidak,"Power BI, Tableau",0,0,0,1,0,0,1,,"Cari Kerja, Networking",Instagram,Sumatera Utara,1,0,1,0,2,Beginner
+311,Jakarta Timur,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jakarta,1,1,1,0,7,Advanced
+312,Mataram,Tidak,"SQL, Python, Databases, Tableau",0,1,1,0,0,1,1,,"Cari Kerja, Networking",LinkedIn,Nusa Tenggara Barat,1,0,1,0,4,Intermediate
+313,Bekasi,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+314,Bekasi,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+315,Bekasi,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, ",1,1,1,1,1,1,0,,"Cari Kerja, Upskill, Switch Career",Teman,Jawa Barat,1,1,0,1,6,Advanced
+316,Palembang,Tidak,Excel,1,0,0,0,0,0,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Sumatera Selatan,1,1,1,1,1,Beginner
+317,Tangerang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking",Instagram,Banten,0,1,1,0,7,Advanced
+318,Bandung,Tidak,"SQL, Python, Power BI, Looker Studio, Databases, Tableau",0,1,1,1,1,1,1,,Switch Career,LinkedIn,Jawa Barat,0,0,0,1,6,Advanced
+319,Jakarta Selatan,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, HTML, CSS, C, JAVASCRIPT",1,1,1,1,1,1,1," HTML, CSS, C, JAVASCRIPT","Upskill, Networking",Teman,Jakarta,0,1,1,0,7,Advanced
+320,Palu,Tidak,Power BI,0,0,0,1,0,0,0,,Upskill,LinkedIn,Sulawesi Tengah,0,1,0,0,1,Beginner
+321,Kuningan,Ya,"Excel, SQL, Python, Looker Studio, Tableau",1,1,1,0,1,0,1,,"Cari Kerja, Networking",LinkedIn,Jawa Barat,1,0,1,0,5,Intermediate
+322,Sumatera Selatan,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Sumatera Selatan,0,1,1,1,7,Advanced
+323,Depok,Ya,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Cari Kerja, Networking, Switch Career",LinkedIn,Jawa Barat,1,0,1,1,6,Advanced
+324,Bandung,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+325,Surabaya,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Tableau",1,1,1,1,1,0,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Timur,1,1,1,0,6,Advanced
+326,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Jakarta,1,1,1,1,7,Advanced
+327,"Rokan Hilir, riau",Tidak,"Excel, SQL, Python, Power BI",1,1,1,1,0,0,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Riau,1,1,1,1,4,Intermediate
+328,Kendari,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",Instagram,Sulawesi Tenggara,1,1,1,1,7,Advanced
+329,Surabaya,Ya,"Excel, SQL, Python, Power BI, Databases",1,1,1,1,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Timur,1,1,1,0,5,Intermediate
+330,Bogor,Ya,"Excel, SQL, Power BI",1,1,0,1,0,0,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,3,Intermediate
+331,Tangerang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Banten,1,1,1,0,7,Advanced
+332,Kalsel,Tidak,"Excel, Power BI, Looker Studio, Databases",1,0,0,1,1,1,0,,"Upskill, Networking",LinkedIn,Kalimantan Selatan,0,1,1,0,4,Intermediate
+333,Lampung,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Lampung,1,1,1,0,7,Advanced
+334,kota padang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Sumatera Barat,0,1,1,1,7,Advanced
+335,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Switch Career",LinkedIn,Jakarta,1,0,0,1,7,Advanced
+336,Bekasi,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+337,Palembang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Switch Career",LinkedIn,Sumatera Selatan,0,1,0,1,7,Advanced
+338,Jakarta Barat,Ya,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,4,Intermediate
+339,Pasuruan,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Timur,1,1,1,0,7,Advanced
+340,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases",1,1,1,1,1,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,6,Advanced
+341,Jakarta Timur,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jakarta,1,1,1,0,7,Advanced
+342,Batam,Tidak,"Excel, SQL, Python, Power BI, Tableau",1,1,1,1,0,0,1,,"Cari Kerja, Networking",LinkedIn,Riau,1,0,1,0,5,Intermediate
+343,Bandung,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",Teman,Jawa Barat,1,1,1,0,7,Advanced
+344,Jakarta Barat,Ya,"SQL, Python, Power BI, Looker Studio, Databases, Tableau",0,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,6,Advanced
+345,Salatiga,Ya,"Excel, SQL, Python, Power BI, Looker Studio",1,1,1,1,1,0,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Tengah,1,1,1,1,5,Intermediate
+346,Solo,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,7,Advanced
+347,Mojokerto,Ya,"Excel, SQL, Python",1,1,1,0,0,0,0,,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Jawa Timur,1,1,1,1,3,Intermediate
+348,Jakarta,Tidak,"Excel, Power BI, Looker Studio",1,0,0,1,1,0,0,,"Upskill, Networking, Switch Career",LinkedIn,Jakarta,0,1,1,1,3,Intermediate
+349,Tangerang Selatan,Tidak,"SQL, Power BI, Looker Studio, Databases, Tableau",0,1,0,1,1,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Banten,0,1,1,1,5,Intermediate
+350,Surabaya,Tidak,"SQL, Python, Power BI",0,1,1,1,0,0,0,,"Upskill, Switch Career",LinkedIn,Jawa Timur,0,1,0,1,3,Intermediate
+351,Tangerang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking",LinkedIn,Banten,0,1,1,0,7,Advanced
+352,Banyuwangi,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,1,1,1,1,7,Advanced
+353,Banyuwangi ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,Upskill,Instagram,Jawa Timur,0,1,0,0,7,Advanced
+354,Sumatera Utara,Tidak,"Excel, SQL, Python, Tableau",1,1,1,0,0,0,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Sumatera Utara,1,1,1,0,4,Intermediate
+355,Jakarta,Ya,"SQL, Python, Power BI, Databases, Tableau",0,1,1,1,0,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,5,Intermediate
+356,Surabaya,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,0,1,1,1,7,Advanced
+357,Sidoarjo,Ya,"SQL, Python, Looker Studio, Databases, Tableau",0,1,1,0,1,1,1,,Upskill,LinkedIn,Jawa Timur,0,1,0,0,5,Intermediate
+358,Jakarta Barat,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,Upskill,LinkedIn,Jakarta,0,1,0,0,7,Advanced
+359,Yogyakarta,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",Instagram,DI Yogyakarta,1,1,1,1,7,Advanced
+360,Bogor,Ya,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,6,Advanced
+361,Malang,Tidak,"SQL, Python, Power BI, Databases, Tableau",0,1,1,1,0,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,1,1,1,1,5,Intermediate
+362,Yogyakarta,Tidak,"SQL, Python, Databases",0,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,DI Yogyakarta,1,1,1,0,3,Intermediate
+363,Cirebon,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+364,Sumatra Selatan,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases",1,1,1,1,1,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Sumatra Selatan,1,1,1,0,6,Advanced
+365,Kota Bengkulu,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, Pandas",1,1,1,1,1,1,1, Pandas,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Bengkulu,1,1,1,1,7,Advanced
+366,Lombok,Ya,"Excel, SQL, Python, Power BI",1,1,1,1,0,0,0,,"Cari Kerja, Upskill, Networking",Teman,Nusa Tenggara Barat,1,1,1,0,4,Intermediate
+367,Banjarmasin,Tidak,"Excel, Power BI, Looker Studio, Databases, Tableau",1,0,0,1,1,1,1,,Upskill,LinkedIn,Kalimantan Selatan,0,1,0,0,5,Intermediate
+368,Bekasi,Ya,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,0,1,1,1,6,Advanced
+369,Surabaya,Tidak,"SQL, Python, Power BI, Looker Studio, Databases, Tableau",0,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,1,1,1,1,6,Advanced
+370,Bogor,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,Switch Career,LinkedIn,Jawa Barat,0,0,0,1,7,Advanced
+371,Jakarta Pusat,Tidak,"Excel, Power BI, Looker Studio, Databases",1,0,0,1,1,1,0,,"Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,4,Intermediate
+372,Jakarta,Tidak,-,0,0,0,0,0,0,0,,Networking,LinkedIn,Jakarta,0,0,1,0,0,Beginner
+373,Samarinda,Ya,"Excel, SQL, Python",1,1,1,0,0,0,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Kalimantan Timur,1,1,1,0,3,Intermediate
+374,Karawang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+375,Balikpapan,Tidak,"Excel, SQL, Python, Power BI, Databases",1,1,1,1,0,1,0,,"Upskill, Networking",LinkedIn,Kalimantan Timur,0,1,1,0,5,Intermediate
+376,Jakarta,Ya,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Jakarta,0,1,1,1,6,Advanced
+377,Tangerang,Tidak,"Power BI, Looker Studio, Databases, Tableau",0,0,0,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Banten,1,1,1,0,4,Intermediate
+378,Tangerang,Tidak,Databases,0,0,0,0,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Banten,1,1,1,0,1,Beginner
+379,Sragen,Ya,"Excel, SQL, Python, Looker Studio, Databases",1,1,1,0,1,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,5,Intermediate
+380,Sragen,Ya,"Excel, SQL, Python",1,1,1,0,0,0,0,,"Cari Kerja, Upskill",LinkedIn,Jawa Tengah,1,1,0,0,3,Intermediate
+381,Sleman,Tidak,"SQL, Python, Power BI, Looker Studio",0,1,1,1,1,0,0,,"Upskill, Networking",LinkedIn,DI Yogyakarta,0,1,1,0,4,Intermediate
+382,Bukittinggi,Tidak,"Python, Knime",0,0,1,0,0,0,0,Knime,Upskill,LinkedIn,Sumatera Barat,0,1,0,0,1,Beginner
+383,Jakarta Selatan,Tidak,"Excel, SQL, Power BI, Databases, Tableau",1,1,0,1,0,1,1,,"Cari Kerja, Upskill",LinkedIn,Jakarta,1,1,0,0,5,Intermediate
+384,Pekanbaru,Ya,"Power BI, Looker Studio, Tableau",0,0,0,1,1,0,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Riau,1,1,1,1,3,Intermediate
+385,Jakarta Timur,Tidak,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,Upskill,LinkedIn,Jakarta,0,1,0,0,4,Intermediate
+386,Tangerang Selatan,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Banten,1,1,1,0,7,Advanced
+387,Aceh Utara ,Ya,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Aceh,1,1,1,0,6,Advanced
+388,Banjarmasin,Tidak,Python,0,0,1,0,0,0,0,,"Upskill, Networking",LinkedIn,Kalimantan Selatan,0,1,1,0,1,Beginner
+389,Surabaya,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,1,1,1,1,7,Advanced
+390,Banyuwangi,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,0,1,1,1,7,Advanced
+391,Jakarta Selatan,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jakarta,1,1,1,0,7,Advanced
+392,Jakarta Selatan,Tidak,"SQL, Python, Power BI, Databases",0,1,1,1,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jakarta,1,1,1,0,4,Intermediate
+393,Bogor,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",Teman,Jawa Barat,1,1,1,0,7,Advanced
+394,Bogor,Ya,"Python, Power BI, Databases, Tableau",0,0,1,1,0,1,1,,"Cari Kerja, Upskill, Networking",Teman,Jawa Barat,1,1,1,0,4,Intermediate
+395,Tegal,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Tengah,1,1,1,1,7,Advanced
+396,Bekasi,Tidak,"SQL, Python, Databases",0,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,3,Intermediate
+397,Bantul,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, Tools Data Engineer",1,1,1,1,1,1,1, Tools Data Engineer,"Upskill, Networking",LinkedIn,DI Yogyakarta,0,1,1,0,7,Advanced
+398,Makassar,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking",LinkedIn,Sulawesi Selatan,0,1,1,0,7,Advanced
+399,Semarang,Ya,"SQL, Python, Power BI, Looker Studio, Databases, Tableau",0,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,6,Advanced
+400,Jakarta selatan,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jakarta,1,1,1,0,7,Advanced
+401,Depok,Tidak,"Excel, Yg relevan untuk project",1,0,0,0,0,0,0,Yg relevan untuk project,Upskill,Teman,Jawa Barat,0,1,0,0,1,Beginner
+402,Jakarta Utara,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,7,Advanced
+403,Depok,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+404,Purbalingga,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,Switch Career,LinkedIn,Jawa Tengah,0,0,0,1,7,Advanced
+405,Tegal,Ya,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,4,Intermediate
+406,Bekasi,Tidak,"Excel, SQL, Python",1,1,1,0,0,0,0,,"Upskill, Networking",LinkedIn,Jawa Barat,0,1,1,0,3,Intermediate
+407,Jakarta Selatan,Tidak,"Excel, SQL, Python, Power BI, Databases, Tableau, Azure, AWS, Fabric",1,1,1,1,0,1,1," Azure, AWS, Fabric","Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,6,Advanced
+408,Jakarta Selatan,Ya,"Excel, Python, Databases",1,0,1,0,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jakarta,1,1,1,0,3,Intermediate
+409,Kalimantan Selatan ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",Instagram,Kalimantan Selatan,1,1,1,0,7,Advanced
+410,Palembang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Sumatera Selatan,1,1,1,0,7,Advanced
+411,Musi Banyuasin,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Sumatera Selatan,1,1,1,0,7,Advanced
+412,Musi Banyuasin,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Sumatera Selatan,1,1,1,0,7,Advanced
+413,Makassar,Tidak,"SQL, Power BI, Databases, Tableau",0,1,0,1,0,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Sulawesi Selatan,0,1,1,1,4,Intermediate
+414,Karawang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Tableau",1,1,1,1,1,0,1,,"Cari Kerja, Upskill",LinkedIn,Jawa Barat,1,1,0,0,6,Advanced
+415,Medan,Ya,"Python, Tableau",0,0,1,0,0,0,1,,"Upskill, Networking",LinkedIn,Sumatera Utara,0,1,1,0,2,Beginner
+416,Bekasi,Ya,"Excel, SQL, Python, Power BI, Databases",1,1,1,1,0,1,0,,"Cari Kerja, Upskill, Switch Career",LinkedIn,Jawa Barat,1,1,0,1,5,Intermediate
+417,Sidoarjo,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking",LinkedIn,Jawa Timur,0,1,1,0,7,Advanced
+418,SIdoarjo,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,Upskill,LinkedIn,Jawa Timur,0,1,0,0,7,Advanced
+419,Surabaya,Ya,"Excel, SQL, Python, Looker Studio, Tableau",1,1,1,0,1,0,1,,"Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,0,1,1,1,5,Intermediate
+420,Jakarta Utara,Tidak,"SQL, Python, Power BI, Databases",0,1,1,1,0,1,0,,Upskill,LinkedIn,Jakarta,0,1,0,0,4,Intermediate
+421,Jakarta Pusat,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jakarta,1,1,1,0,7,Advanced
+422,Depok,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+423,Kalimantan Selatan,Tidak,"Excel, SQL, Power BI, Databases",1,1,0,1,0,1,0,,"Upskill, Networking",LinkedIn,Kalimantan Selatan,0,1,1,0,4,Intermediate
+424,Jakarta Selatan,Ya,"Excel, SQL, Python, Power BI",1,1,1,1,0,0,0,,"Cari Kerja, Upskill, Switch Career",LinkedIn,Jakarta,1,1,0,1,4,Intermediate
+425,Bekasi,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, R program ",1,1,1,1,1,1,1, R program,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+426,Kota Bekasi ,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill",Teman,Jawa Barat,1,1,0,0,7,Advanced
+427,Banten,Ya,"Excel, SQL, Python, Power BI, Databases",1,1,1,1,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Banten,1,1,1,1,5,Intermediate
+428,Tangerang,Ya,Python,0,0,1,0,0,0,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Banten,1,1,1,0,1,Beginner
+429,BSD,Tidak,"Excel, SQL, Looker Studio, Databases, Tableau",1,1,0,0,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Banten,1,1,1,1,5,Intermediate
+430,Jogja,Ya,"SQL, Databases",0,1,0,0,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,DI Yogyakarta,1,1,1,0,2,Beginner
+431,pekanbaru,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Riau,1,1,1,1,7,Advanced
+432,Bandung,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,Cari Kerja,LinkedIn,Jawa Barat,1,0,0,0,7,Advanced
+433,Bandung,Tidak,"Excel, SQL, Power BI, Looker Studio, Databases",1,1,0,1,1,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,5,Intermediate
+434,Jakarta Selatan,Ya,"Excel, SQL, Python, Power BI, Tableau",1,1,1,1,0,0,1,,"Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,5,Intermediate
+435,Semarang,Ya,"SQL, Python, Databases",0,1,1,0,0,1,0,,"Upskill, Networking",LinkedIn,Jawa Tengah,0,1,1,0,3,Intermediate
+436,Klaten,Tidak,"SQL, Python, Power BI, Databases, Data Engineering",0,1,1,1,0,1,0, Data Engineering,"Upskill, Networking",LinkedIn,Jawa Tengah,0,1,1,0,4,Intermediate
+437,Tangerang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, Kafka",1,1,1,1,1,1,1, Kafka,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Banten,1,1,1,1,7,Advanced
+438,Sukabumi,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+439,Depok,Tidak,"Excel, SQL, Python, Power BI, Databases",1,1,1,1,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,5,Intermediate
+440,Banyumas,Ya,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,4,Intermediate
+441,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,7,Advanced
+442,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, Pentaho",1,1,1,1,1,1,1, Pentaho,"Cari Kerja, Upskill, Networking",LinkedIn,Jakarta,1,1,1,0,7,Advanced
+443,Surakarta ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Tengah,1,1,1,1,7,Advanced
+444,Kalimantan Selatan,Ya,"Excel, Databases",1,0,0,0,0,1,0,,"Cari Kerja, Upskill",LinkedIn,Kalimantan Selatan,1,1,0,0,2,Beginner
+445,Bogor,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+446,Yogyakarta ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,DI Yogyakarta,1,1,1,0,7,Advanced
+447,Banten,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Tableau",1,1,1,1,1,0,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Banten,1,1,1,0,6,Advanced
+448,Tangerang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, Data Science, Bigquery",1,1,1,1,1,1,1," Data Science, Bigquery","Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Banten,1,1,1,1,7,Advanced
+449,Bandung,Tidak,"Python, Databases, Tableau",0,0,1,0,0,1,1,,Switch Career,LinkedIn,Jawa Barat,0,0,0,1,3,Intermediate
+450,Bogor,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+451,Bandung,Tidak,"SQL, Python, Databases",0,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,3,Intermediate
+452,Bandung,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, Python",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Jawa Barat,1,1,1,1,7,Advanced
+453,DI Yogyakarta,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Belum ada mapping,1,1,1,0,7,Advanced
+454,Yogyakarta,Ya,"Power BI, Databases",0,0,0,1,0,1,0,,"Cari Kerja, Upskill, Networking",Teman,DI Yogyakarta,1,1,1,0,2,Beginner
+455,Cilacap,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,7,Advanced
+456,Karawang,Ya,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,6,Advanced
+457,"salsafal, gang menukan II no.971, brontokusuman,mergangsan, yogyakarta",Tidak,"SQL, Python, Looker Studio, Databases",0,1,1,0,1,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Belum ada mapping,1,1,1,1,4,Intermediate
+458,Bogor,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+459,Jakarta ,Tidak,"Excel, SQL, Python, Looker Studio, Databases, Tableau",1,1,1,0,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jakarta,1,1,1,0,6,Advanced
+460,Surabaya,Ya,Semua yg di atas ,0,0,0,0,0,0,0,Semua yg di atas,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Jawa Timur,1,1,1,1,0,Beginner
+461,Jawa Tengah,Ya,"SQL, Python, Power BI, Databases, Tableau, BigQuery, dbt, Airflow",0,1,1,1,0,1,1," BigQuery, dbt, Airflow","Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,5,Intermediate
+462,Serang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Banten,1,1,1,0,7,Advanced
+463,Depok,Ya,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Upskill, Networking",LinkedIn,Jawa Barat,0,1,1,0,4,Intermediate
+464,Surabaya,Ya,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,1,1,1,1,4,Intermediate
+465,Jakarta,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Tableau",1,1,1,1,1,0,1,,Switch Career,LinkedIn,Jakarta,0,0,0,1,6,Advanced
+466,Bogor,Ya,"Excel, Power BI, Databases",1,0,0,1,0,1,0,,"Cari Kerja, Upskill",Instagram,Jawa Barat,1,1,0,0,3,Intermediate
+467,Palangkaraya,Tidak,"SQL, Tableau",0,1,0,0,0,0,1,,"Upskill, Switch Career",LinkedIn,Kalimantan Tengah ,0,1,0,1,2,Beginner
+468,Medan,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Sumatera Utara,1,1,1,1,7,Advanced
+469,Bekasi,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+470,Sragen,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Tengah,1,1,1,1,7,Advanced
+471,Jakarta,Ya,"SQL, Python, Power BI, Tableau",0,1,1,1,0,0,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,4,Intermediate
+472,Bekasi ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",Teman,Jawa Barat,1,1,1,0,7,Advanced
+473,Jakarta,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, Aiven",1,1,1,1,1,1,1, Aiven,"Cari Kerja, Upskill, Networking",LinkedIn,Jakarta,1,1,1,0,7,Advanced
+474,Jakarta Timur ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,7,Advanced
+475,Garut,Tidak,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,6,Advanced
+476,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jakarta,1,1,1,0,7,Advanced
+477,Purwokerto,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,7,Advanced
+478,surabaya,Ya,"Excel, SQL, Python, Looker Studio, Databases, Tableau",1,1,1,0,1,1,1,,Upskill,LinkedIn,Jawa Timur,0,1,0,0,6,Advanced
+479,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,6,Advanced
+480,Malang ,Ya,"Excel, SQL, Python, Power BI",1,1,1,1,0,0,0,,Upskill,Teman,Jawa Timur,0,1,0,0,4,Intermediate
+481,Tangerang ,Ya,"Excel, Power BI, Looker Studio, Tableau",1,0,0,1,1,0,1,,"Upskill, Networking, Switch Career",LinkedIn,Banten,0,1,1,1,4,Intermediate
+482,Jombang,Ya,"Excel, SQL, Python, Databases, Tableau",1,1,1,0,0,1,1,,"Cari Kerja, Upskill, Networking",Instagram,Jawa Timur,1,1,1,0,5,Intermediate
+483,Jawa Timur ,Ya,Excel,1,0,0,0,0,0,0,,Upskill,Teman,Jawa Timur,0,1,0,0,1,Beginner
+484,Banjarmasin,Ya,"SQL, Python, Power BI",0,1,1,1,0,0,0,,"Cari Kerja, Upskill",LinkedIn,Kalimantan Selatan,1,1,0,0,3,Intermediate
+485,Jakarta Pusat,Ya,"Excel, SQL, Python, Power BI, Tableau",1,1,1,1,0,0,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jakarta,1,1,1,0,5,Intermediate
+486,Jogja,Ya,"SQL, Python, Power BI, Tableau",0,1,1,1,0,0,1,,"Upskill, Networking",Teman,DI Yogyakarta,0,1,1,0,4,Intermediate
+487,Magelang,Tidak,"Python, Power BI, Databases",0,0,1,1,0,1,0,,"Upskill, Networking, Switch Career",LinkedIn,Jawa Tengah,0,1,1,1,3,Intermediate
+488,Kediri,Tidak,"Excel, SQL, Python, Power BI",1,1,1,1,0,0,0,,"Cari Kerja, Networking",Instagram,Jawa Timur,1,0,1,0,4,Intermediate
+489,Klaten,Tidak,"Excel, SQL, Power BI, Tableau",1,1,0,1,0,0,1,,Upskill,Instagram,Jawa Tengah,0,1,0,0,4,Intermediate
+490,Rangkasbitung,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",Instagram,Banten,1,1,1,1,7,Advanced
+491,Malang,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,1,1,1,1,7,Advanced
+492,Jakarta timur,Ya,"Excel, Databases",1,0,0,0,0,1,0,,"Cari Kerja, Upskill",LinkedIn,Jakarta,1,1,0,0,2,Beginner
+493,Depok,Tidak,"Excel, SQL, Python",1,1,1,0,0,0,0,,Switch Career,LinkedIn,Jawa Barat,0,0,0,1,3,Intermediate
+494,DKI Jakarta,Tidak,"SQL, Python",0,1,1,0,0,0,0,,"Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,2,Beginner
+495,DKI Jakarta ,Tidak,"Excel, SQL, Python",1,1,1,0,0,0,0,,"Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,3,Intermediate
+496,Medan,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Sumatera Utara,1,1,1,0,7,Advanced
+497,Bekasi,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+498,Makassar,Tidak,"SQL, Python, Power BI, Looker Studio, Ingin belajar automasi update data",0,1,1,1,1,0,0, Ingin belajar automasi update data,"Upskill, Networking",LinkedIn,Sulawesi Selatan,0,1,1,0,4,Intermediate
+499,Depok,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+500,DEPOK,Tidak,"SQL, Python, Power BI, Looker Studio, Tableau",0,1,1,1,1,0,1,,"Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,0,1,1,1,5,Intermediate
+501,Jawa Timur,Ya,"Power BI, Looker Studio, Databases, Tableau",0,0,0,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,1,1,1,1,4,Intermediate
+502,Klaten,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking",LinkedIn,Jawa Tengah,0,1,1,0,7,Advanced
+503,Tangerang,Ya,"Excel, SQL, Power BI, Databases, Tableau",1,1,0,1,0,1,1,,"Cari Kerja, Switch Career",LinkedIn,Banten,1,0,0,1,5,Intermediate
+504,Surabaya,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,Switch Career,LinkedIn,Jawa Timur,0,0,0,1,7,Advanced
+505,Bogor,Tidak,"Excel, SQL, Python, Power BI, Databases",1,1,1,1,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,5,Intermediate
+506,Sulawesi Selatan,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Sulawesi Selatan,1,1,1,0,7,Advanced
+507,Medan,Ya,"Excel, SQL, Python, Power BI, Tableau",1,1,1,1,0,0,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Sumatera Utara,1,1,1,0,5,Intermediate
+508,Pekanbaru,Ya,"Excel, Power BI",1,0,0,1,0,0,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Riau,1,1,1,1,2,Beginner
+509,Kota Bengkulu,Ya,"Excel, SQL, Python, Looker Studio, Databases",1,1,1,0,1,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Bengkulu,1,1,1,1,5,Intermediate
+510,Surabaya,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,1,1,1,1,7,Advanced
+511,Depok,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, R",1,1,1,1,1,1,1, R,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+512,Kalimantan Barat,Ya,"Excel, Looker Studio",1,0,0,0,1,0,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Kalimantan Barat,1,1,1,0,2,Beginner
+513,Bandung,Ya,"SQL, Power BI, Looker Studio, Databases, Tableau",0,1,0,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,5,Intermediate
+514,Semarang ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,7,Advanced
+515,Jakarta ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,7,Advanced
+516,Sulawesi Tengah ,Ya,"Excel, Python, Looker Studio, Databases",1,0,1,0,1,1,0,,"Cari Kerja, Upskill",LinkedIn,Sulawesi Tengah,1,1,0,0,4,Intermediate
+517,Jawa Barat,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking",Teman,Jawa Barat,0,1,1,0,7,Advanced
+518,Ciamis Jawa Barat ,Ya,"Excel, SQL, Looker Studio, Tableau",1,1,0,0,1,0,1,,"Cari Kerja, Upskill",LinkedIn,Jawa Barat,1,1,0,0,4,Intermediate
+519,Surabaya,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,1,1,1,1,7,Advanced
+520,Depok,Ya,"Excel, SQL, Power BI, Tableau",1,1,0,1,0,0,1,,"Cari Kerja, Upskill, Switch Career",LinkedIn,Jawa Barat,1,1,0,1,4,Intermediate
+521,"Balikpapan, Kalimantan Timur",Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Kalimantan Timur,0,1,1,1,7,Advanced
+522,Tangerang Selatan,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Banten,0,1,1,1,7,Advanced
+523,Bekasi,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, Data Engineer tools, API dll",1,1,1,1,1,1,1," Data Engineer tools, API dll","Upskill, Networking",LinkedIn,Jawa Barat,0,1,1,0,7,Advanced
+524,Wonosobo,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Tengah,1,1,1,1,7,Advanced
+525,Pasaman Barat,Tidak,"SQL, Python, Databases",0,1,1,0,0,1,0,,"Cari Kerja, Upskill",LinkedIn,Sumatera Barat,1,1,0,0,3,Intermediate
+526,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jakarta,1,1,1,0,7,Advanced
+527,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jakarta,1,1,1,0,7,Advanced
+528,"Gresik, Jawa Timur",Ya,"Excel, SQL, Databases",1,1,0,0,0,1,0,,"Upskill, Networking",Teman,Jawa Timur,0,1,1,0,3,Intermediate
+529,Jakarta,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking",Teman,Jakarta,0,1,1,0,7,Advanced
+530,"Purwokerto, Kabupaten Banyumas",Ya,"SQL, Python, Power BI, Looker Studio, Databases, Tableau",0,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Tengah,1,1,1,1,6,Advanced
+531,Tangerang,Tidak,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",Instagram,Banten,1,1,1,1,4,Intermediate
+532,Cikarang,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+533,Tangerang,Ya,"SQL, Python, Databases",0,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Banten,1,1,1,0,3,Intermediate
+534,Bengkulu ,Ya,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Bengkulu,1,1,1,1,4,Intermediate
+535,Serang,Ya,"Excel, SQL, Power BI, Databases, Tableau",1,1,0,1,0,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",Instagram,Banten,1,1,1,1,5,Intermediate
+536,Kalsel,Tidak,"Databases, Excel",1,0,0,0,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Kalimantan Selatan,1,1,1,1,2,Beginner
+537,jakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,7,Advanced
+538,Riau,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Riau,1,1,1,0,7,Advanced
+539,Pekalongan,Ya,"Excel, SQL, Databases",1,1,0,0,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,3,Intermediate
+540,Cilacap,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Tengah,1,1,1,1,7,Advanced
+541,Cilacap,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, ",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Tengah,1,1,1,1,7,Advanced
+542,Jakarta Utara ,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Switch Career",LinkedIn,Jakarta,1,0,0,1,7,Advanced
+543,Surabaya,Ya,"Excel, Power BI, Looker Studio, Databases",1,0,0,1,1,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,1,1,1,1,4,Intermediate
+544,Surabaya,Ya,"Excel, SQL, Python, Power BI, Databases",1,1,1,1,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,1,1,1,1,5,Intermediate
+545,Kediri,Tidak,"Excel, SQL, Python, Power BI, Tableau",1,1,1,1,0,0,1,,"Networking, Switch Career",LinkedIn,Jawa Timur,0,0,1,1,5,Intermediate
+546,Bekasi,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill",LinkedIn,Jawa Barat,1,1,0,0,7,Advanced
+547,Kab. Tangerang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill",LinkedIn,Banten,1,1,0,0,7,Advanced
+548,Pontianak,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Kalimantan Barat,1,1,1,1,7,Advanced
+549,Bengkulu,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Tableau",1,1,1,1,1,0,1,,"Cari Kerja, Upskill",LinkedIn,Bengkulu,1,1,0,0,6,Advanced
+550,Magetan,Ya,"Excel, SQL, Python, Power BI",1,1,1,1,0,0,0,,"Cari Kerja, Upskill",LinkedIn,Jawa Tengah,1,1,0,0,4,Intermediate
+551,Bandung,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Tableau",1,1,1,1,1,0,1,,"Upskill, Networking, Switch Career",Teman,Jawa Barat,0,1,1,1,6,Advanced
+552,pekanbaru,Tidak,"Python, Power BI, Looker Studio, Tableau",0,0,1,1,1,0,1,,Upskill,Teman,Riau,0,1,0,0,4,Intermediate
+553,Bekasi,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+554,Medan ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Sumatera Utara,1,1,1,0,7,Advanced
+555,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases",1,1,1,1,1,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,6,Advanced
+556,Bandung,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+557,Jakarta,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Jakarta,1,1,1,1,7,Advanced
+558,Kalimantan Tengah,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Kalimantan Tengah ,1,1,1,0,7,Advanced
+559,Blitar,Tidak,"SQL, Python, Databases",0,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Timur,1,1,1,0,3,Intermediate
+560,Bandung ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking, Switch Career",Teman,Jawa Barat,0,1,1,1,7,Advanced
+561,Sidoarjo,Tidak,"Excel, SQL, Power BI, Tableau",1,1,0,1,0,0,1,,"Upskill, Networking",LinkedIn,Jawa Timur,0,1,1,0,4,Intermediate
+562,Kalimantan Selatan,Tidak,Power BI,0,0,0,1,0,0,0,,"Cari Kerja, Upskill, Switch Career",LinkedIn,Kalimantan Selatan,1,1,0,1,1,Beginner
+563,Lampung,Ya,"Excel, SQL, Databases",1,1,0,0,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Lampung,1,1,1,0,3,Intermediate
+564,Tegal,Ya,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Upskill, Networking, Switch Career",LinkedIn,Jawa Tengah,0,1,1,1,4,Intermediate
+565,Jakarta,Tidak,"SQL, Python, Power BI, Looker Studio, Databases, Tableau, ",0,1,1,1,1,1,1,,"Upskill, Networking, Switch Career",Instagram,Jakarta,0,1,1,1,6,Advanced
+566,Yogyakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,Cari Kerja,LinkedIn,DI Yogyakarta,1,0,0,0,7,Advanced
+567,Jawa Timur,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking",LinkedIn,Jawa Timur,0,1,1,0,7,Advanced
+568,Cikarang ,Ya,"Excel, SQL, Python",1,1,1,0,0,0,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,3,Intermediate
+569,Tangerang Selatan,Tidak,"SQL, Python, Power BI, Databases, Tableau",0,1,1,1,0,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Banten,0,1,1,1,5,Intermediate
+570,Bandung,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+571,Madiun,Tidak,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Timur,1,1,1,0,4,Intermediate
+572,Aceh,Tidak,"Excel, SQL, Databases",1,1,0,0,0,1,0,,"Upskill, Networking, Switch Career",LinkedIn,Aceh,0,1,1,1,3,Intermediate
+573,"Cilacap, Jawa Tengah",Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases",1,1,1,1,1,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Tengah,1,1,1,1,6,Advanced
+574,Karanganyar,Tidak,"Excel, SQL, Python, Power BI, R",1,1,1,1,0,0,0, R,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Jawa Tengah,1,1,1,1,4,Intermediate
+575,Jakarta Pusat,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Networking, Switch Career",LinkedIn,Jakarta,0,0,1,1,7,Advanced
+576,Bekasi,Tidak,"Excel, SQL, Python, Power BI, Tableau",1,1,1,1,0,0,1,,"Upskill, Networking",Instagram,Jawa Barat,0,1,1,0,5,Intermediate
+577,Sukabumi,Ya,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,4,Intermediate
+578,Yogyakarta,Ya,"Excel, SQL, Python, Databases, Tableau",1,1,1,0,0,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,DI Yogyakarta,1,1,1,1,5,Intermediate
+579,Gowa,Tidak,Excel,1,0,0,0,0,0,0,,Cari Kerja,LinkedIn,Sulawesi Selatan,1,0,0,0,1,Beginner
+580,Bogor,Tidak,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,6,Advanced
+581,Kendari,Tidak,"SQL, Tableau",0,1,0,0,0,0,1,,"Upskill, Networking",LinkedIn,Sulawesi Tenggara,0,1,1,0,2,Beginner
+582,Surabaya,Ya,"Excel, SQL, Power BI, Databases",1,1,0,1,0,1,0,,"Cari Kerja, Upskill",LinkedIn,Jawa Timur,1,1,0,0,4,Intermediate
+583,Tasikmalaya ,Ya,"Excel, SQL, Power BI, Databases",1,1,0,1,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,4,Intermediate
+584,"Tangerang,Banten",Ya,"Excel, Python, Power BI",1,0,1,1,0,0,0,,"Upskill, Networking",Teman,Banten,0,1,1,0,3,Intermediate
+585,Mataram,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, Semua tools data analyst",1,1,1,1,1,1,1, Semua tools data analyst,"Upskill, Networking",LinkedIn,Nusa Tenggara Barat,0,1,1,0,7,Advanced
+586,Kota Jambi,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jambi,1,1,1,1,7,Advanced
+587,Samarinda,Ya,"Excel, Python, Power BI, Databases",1,0,1,1,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Kalimantan Timur,1,1,1,0,4,Intermediate
+588,Tegal,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, ",1,1,1,1,1,1,0,,"Cari Kerja, Upskill",LinkedIn,Jawa Tengah,1,1,0,0,6,Advanced
+589,Jakarta Selatan,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,7,Advanced
+590,Jawa Timur,Tidak,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,1,1,1,1,4,Intermediate
+591,Pekanbaru,Ya,"Excel, SQL, Python, Databases, Tableau",1,1,1,0,0,1,1,,"Networking, Switch Career",LinkedIn,Riau,0,0,1,1,5,Intermediate
+592,Kupang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Nusa Tenggara Timur,1,1,1,1,7,Advanced
+593,Lampung,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Lampung,1,1,1,1,7,Advanced
+594,Padang,Ya,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Sumatera Barat,1,1,1,1,4,Intermediate
+595,DKI Jakarta,Ya,Excel,1,0,0,0,0,0,0,,Upskill,LinkedIn,Jakarta,0,1,0,0,1,Beginner
+596,Sidoarjo,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, R",1,1,1,1,1,1,1, R,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Jawa Timur,1,1,1,1,7,Advanced
+597,Cimahi,Tidak,"Excel, SQL, Python, Looker Studio, Tableau",1,1,1,0,1,0,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,5,Intermediate
+598,Sumatera Barat,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Sumatera Barat,1,1,1,1,7,Advanced
+599,Jakarta,Tidak,"SQL, Python, Power BI, Looker Studio, Databases, Tableau",0,1,1,1,1,1,1,,"Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,6,Advanced
+600,Bekasi,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+601,Kebumen,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Tengah,1,1,1,1,7,Advanced
+602,Bandung,Tidak,"Excel, SQL, Python, Looker Studio, Databases",1,1,1,0,1,1,0,,"Upskill, Networking",LinkedIn,Jawa Barat,0,1,1,0,5,Intermediate
+603,Cimahi,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+604,Malang,Ya,"Excel, SQL, Python, Databases, Tableau",1,1,1,0,0,1,1,,"Upskill, Networking",LinkedIn,Jawa Timur,0,1,1,0,5,Intermediate
+605,Samarinda,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill",LinkedIn,Kalimantan Timur,1,1,0,0,7,Advanced
+606,Bekasi,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+607,"Pekanbaru, Riau",Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Riau,0,1,1,1,7,Advanced
+608,Jawa Tengah,Tidak,"Excel, SQL, Python, Looker Studio, Databases",1,1,1,0,1,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Tengah,1,1,1,1,5,Intermediate
+609,Jakarta Pusat,Ya,"Excel, Python, Power BI, Looker Studio, Databases, Tableau",1,0,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jakarta,1,1,1,0,6,Advanced
+610,Subang,Tidak,"Excel, SQL, Power BI, Databases",1,1,0,1,0,1,0,,"Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,0,1,1,1,4,Intermediate
+611,Bungo,Ya,"Excel, SQL, Python, Looker Studio, Databases, Tableau",1,1,1,0,1,1,1,,Cari Kerja,Instagram,Jambi,1,0,0,0,6,Advanced
+612,Bantul,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill",LinkedIn,DI Yogyakarta,1,1,0,0,7,Advanced
+613,Palembang,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",Teman,Sumatera Selatan,1,1,1,1,7,Advanced
+614,Batam,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Riau,1,1,1,1,7,Advanced
+615,Batam,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill",LinkedIn,Riau,1,1,0,0,7,Advanced
+616,Bogor,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+617,"Cianjur, Jawa Barat ",Ya,"Excel, SQL, Python, Power BI, Databases",1,1,1,1,0,1,0,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,5,Intermediate
+618,Makassar,Tidak,"Excel, Power BI",1,0,0,1,0,0,0,,Switch Career,LinkedIn,Sulawesi Selatan,0,0,0,1,2,Beginner
+619,Jakarta Timur,Tidak,"Excel, SQL, Python, Power BI",1,1,1,1,0,0,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,4,Intermediate
+620,Jakarta,Tidak,"Excel, Power BI, Looker Studio, Databases",1,0,0,1,1,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,4,Intermediate
+621,Jakarta,Tidak,"Excel, Power BI, Looker Studio, Databases, Tableau",1,0,0,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,5,Intermediate
+622,Jakarta Pusat,Tidak,"SQL, Looker Studio, Databases",0,1,0,0,1,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jakarta,1,1,1,1,3,Intermediate
+623,Kendari,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,Upskill,LinkedIn,Sulawesi Tenggara,0,1,0,0,7,Advanced
+624,Medan,Ya,Cloud server,0,0,0,0,0,0,0,Cloud server,Upskill,LinkedIn,Sumatera Utara,0,1,0,0,0,Beginner
+625,Jakarta Pusat,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,Upskill,LinkedIn,Jakarta,0,1,0,0,7,Advanced
+626,Bekasi,Tidak,"Python, Looker Studio, Tableau",0,0,1,0,1,0,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,3,Intermediate
+627,Jakarta ,Tidak,"Excel, Python, Power BI, Databases",1,0,1,1,0,1,0,,"Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,4,Intermediate
+628,Agam,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Sumatera Barat,1,1,1,0,7,Advanced
+629,Jakarta,Ya,"Python, Looker Studio, Databases",0,0,1,0,1,1,0,,"Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,3,Intermediate
+630,Surabaya ,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,1,1,1,1,7,Advanced
+631,Pasuruan,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau, AI for Data Analyst",1,1,1,1,1,1,1, AI for Data Analyst,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Timur,1,1,1,0,7,Advanced
+632,Cikarang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+633,Jakarta,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jakarta,1,1,1,0,7,Advanced
+634,Bandung,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking",LinkedIn,Jawa Barat,0,1,1,0,7,Advanced
+635,Semarang,Tidak,"Python, Power BI, Looker Studio, Databases, Tableau",0,0,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Tengah,1,1,1,0,5,Intermediate
+636,Bengkulu ,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Bengkulu,1,1,1,1,7,Advanced
+637,Jawa Barat,Ya,Excel,1,0,0,0,0,0,0,,Upskill,LinkedIn,Jawa Barat,0,1,0,0,1,Beginner
+638,Bekasi,Ya,"Excel, SQL, Power BI, Databases",1,1,0,1,0,1,0,,"Cari Kerja, Networking",Teman,Jawa Barat,1,0,1,0,4,Intermediate
+639,Yogyakarta,Tidak,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking",Teman,DI Yogyakarta,1,1,1,0,4,Intermediate
+640,Bekasi,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,7,Advanced
+641,Jambi,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jambi,1,1,1,1,7,Advanced
+642,Bandung,Ya,"SQL, Python, Power BI, Looker Studio, Databases, Tableau",0,1,1,1,1,1,1,,Upskill,LinkedIn,Jawa Barat,0,1,0,0,6,Advanced
+643,Yogyakarta,Tidak,"Power BI, Looker Studio, Databases, Tableau",0,0,0,1,1,1,1,,"Upskill, Networking, Switch Career",LinkedIn,DI Yogyakarta,0,1,1,1,4,Intermediate
+644,Jakarta,Ya,"Excel, Python, Looker Studio",1,0,1,0,1,0,0,,Cari Kerja,LinkedIn,Jakarta,1,0,0,0,3,Intermediate
+645,Jember,Ya,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,1,1,1,1,4,Intermediate
+646,Jember,Ya,"Excel, SQL, Python, Databases",1,1,1,0,0,1,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,1,1,1,1,4,Intermediate
+647,Blora,Ya,"Excel, SQL, Power BI, Tableau",1,1,0,1,0,0,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Tengah,1,1,1,1,4,Intermediate
+648,Bekasi,Ya,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,6,Advanced
+649,Gresik,Ya,"Excel, SQL, Power BI, Looker Studio, Databases, Tableau",1,1,0,1,1,1,1,,"Cari Kerja, Upskill",LinkedIn,Jawa Timur,1,1,0,0,6,Advanced
+650,Malang,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases",1,1,1,1,1,1,0,,"Upskill, Networking",LinkedIn,Jawa Timur,0,1,1,0,6,Advanced
+651,Tangerang Selatan,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Banten,1,1,1,0,7,Advanced
+652,Pamulang,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Banten,1,1,1,1,7,Advanced
+653,Balikpapan,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Kalimantan Timur,1,1,1,1,7,Advanced
+654,Sidoarjo,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Jawa Timur,0,1,1,1,7,Advanced
+655,Tangerang Selatan,Tidak,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Banten,1,1,1,1,6,Advanced
+656,Malang,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",Instagram,Jawa Timur,1,1,1,1,7,Advanced
+657,Jakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,7,Advanced
+658,"Bantul, DIY",Ya,"Excel, SQL, Python, Looker Studio, Databases",1,1,1,0,1,1,0,,"Upskill, Networking",LinkedIn,DI Yogyakarta,0,1,1,0,5,Intermediate
+659,Bogor,Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+660,Karawang,Ya,"Excel, Looker Studio",1,0,0,0,1,0,0,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,2,Beginner
+661,Jawa Tengah,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Tengah,1,1,1,1,7,Advanced
+662,Tangerang,Tidak,"Power BI, Looker Studio, Tableau",0,0,0,1,1,0,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Banten,1,1,1,1,3,Intermediate
+663,Lampung ,Ya,"Excel, SQL, Power BI, Tableau",1,1,0,1,0,0,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Lampung,1,1,1,1,4,Intermediate
+664,Sidoarjo,Ya,"SQL, Power BI, Looker Studio, Tableau",0,1,0,1,1,0,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Timur,1,1,1,0,4,Intermediate
+665,Belitung,Ya,Databases,0,0,0,0,0,1,0,,"Upskill, Networking",Instagram,Bangka  Belitung,0,1,1,0,1,Beginner
+666,Belitung ,Ya,"SQL, Python",0,1,1,0,0,0,0,,Upskill,Instagram,Bangka  Belitung,0,1,0,0,2,Beginner
+667,Banjarmasin,Ya,"Excel, SQL, Python, Looker Studio",1,1,1,0,1,0,0,,Upskill,LinkedIn,Kalimantan Selatan,0,1,0,0,4,Intermediate
+668,Lampung,Ya,"Excel, SQL, Python, Power BI, Databases, Tableau",1,1,1,1,0,1,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Lampung,1,1,1,1,6,Advanced
+669,Pontianak ,Tidak,"Excel, SQL, Python",1,1,1,0,0,0,0,,"Cari Kerja, Upskill",Instagram,Kalimantan Barat,1,1,0,0,3,Intermediate
+670,Yogyakarta,Tidak,"Excel, SQL, Python, Power BI, Looker Studio, Databases",1,1,1,1,1,1,0,,Upskill,Teman,DI Yogyakarta,0,1,0,0,6,Advanced
+671,Bogor,Ya,"Excel, Power BI, Tableau",1,0,0,1,0,0,1,,"Cari Kerja, Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,1,1,1,1,3,Intermediate
+672,Semarang,Tidak,"SQL, Python, Power BI, Tableau",0,1,1,1,0,0,1,,"Upskill, Networking, Switch Career",LinkedIn,Jawa Tengah,0,1,1,1,4,Intermediate
+673,"Sukabumi, Jawa Barat",Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Cari Kerja, Upskill, Networking",LinkedIn,Jawa Barat,1,1,1,0,7,Advanced
+674,Jakarta,Tidak,"Excel, Power BI, Databases",1,0,0,1,0,1,0,,Upskill,LinkedIn,Jakarta,0,1,0,0,3,Intermediate
+675,Jember ,Tidak,Excel,1,0,0,0,0,0,0,,Upskill,Teman,Jawa Timur,0,1,0,0,1,Beginner
+676,Jember ,Tidak,"Excel, SQL",1,1,0,0,0,0,0,,"Upskill, Networking",Instagram,Jawa Timur,0,1,1,0,2,Beginner
+677,Jakarta,Ya,"Excel, SQL, Python, Looker Studio",1,1,1,0,1,0,0,,"Upskill, Networking",LinkedIn,Jakarta,0,1,1,0,4,Intermediate
+678,Makassar,Tidak,"SQL, Python, Power BI, Databases, Tableau",0,1,1,1,0,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Sulawesi Selatan,0,1,1,1,5,Intermediate
+679,Jepara,Tidak,"Excel, SQL, Python, Tableau",1,1,1,0,0,0,1,,Cari Kerja,Teman,Jawa Tengah,1,0,0,0,4,Intermediate
+680,Lamongan,Ya,"Databases, Tableau",0,0,0,0,0,1,1,,"Upskill, Networking",Instagram,Jawa Timur,0,1,1,0,2,Beginner
+681,"Bekasi, Jawa Barat",Ya,"Excel, SQL, Python, Power BI, Looker Studio, Databases, Tableau",1,1,1,1,1,1,1,,"Upskill, Networking, Switch Career",LinkedIn,Jawa Barat,0,1,1,1,7,Advanced
