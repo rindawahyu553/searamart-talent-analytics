@@ -61,7 +61,7 @@ Business Insights
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](powerbi/dashboard_preview.png)
 
 ---
 
